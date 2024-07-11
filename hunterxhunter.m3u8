@@ -1,250 +1,528 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Largados e pelados a tribo" tvg-logo="" group-title="✔️ CANAIS 24HS",Largados e pelados a tribo
-http://190.102.43.113:80/Formigatv/offilinetv2806/1541383.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Largados e pelados" tvg-logo="" group-title="✔️ CANAIS 24HS",Largados e pelados
-http://190.102.43.113:80/Formigatv/offilinetv2806/1541391.m3u8
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E01" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120935.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E02" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120936.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E03" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120937.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E04" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120938.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E05" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120939.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E06" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120940.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E07" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120941.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E08" tvg-logo="http://cb2.sytes.net:8080/images/f9a9f479d9a6b9ef0a815fc401f459d5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120942.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E09" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S01E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120943.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E01" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120944.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E02" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120945.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E03" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120946.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E04" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120947.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E05" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120948.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E06" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120949.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E07" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120950.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E08" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120951.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E09" tvg-logo="http://cb2.sytes.net:8080/images/9e9c46950f1d747879235472ca28c6cf.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S02E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120952.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E01" tvg-logo="http://cb2.sytes.net:8080/images/1abfef7697edcafb11010308d9a517ab.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120953.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E02" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120954.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E03" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120955.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E04" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120956.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E05" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120957.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E06" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120958.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E07" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120959.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E08" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120960.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E09" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120961.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E10" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S03E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120962.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E01" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120963.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E02" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120964.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E03" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120965.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E04" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120966.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E05" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120967.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E06" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120968.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E07" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120969.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E08" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120970.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E09" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120971.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E10" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120972.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E11" tvg-logo="http://cb2.sytes.net:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S04E11
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120973.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E01" tvg-logo="http://cb2.sytes.net:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120974.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E02" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120975.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E03" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120976.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E04" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120977.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E05" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120978.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E06" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120979.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E07" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120980.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E08" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120981.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E09" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120982.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E10" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120983.mp4
-#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E11" tvg-logo="http://cb2.sytes.net:8080/images/f3f0af70e821c238e36ceb1a8d7ee9c0.jpg" group-title="SERIES | DISCOVERY + [R]",Largados e Pelados: A Tribo S05E11
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/2120984.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/t7f8cGu4v0WL8BGIpKGHs3YCvuL.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997142.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/fGh71o5EiNZZa6Z6mZfLiRBtHU2.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997143.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/w9icTucaQ2LV87obxoRBuKbXSJL.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997144.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/d4LMek3vMDYcbz1FioBtbcC7VkO.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997145.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/xyndKjxf6mjx7iUJWziBmFsOPgD.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997146.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/x5RWVPcY71T5Iuco4YAigMHnUth.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997147.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/hc23DcQWJk8ZqCW3b7IFtqv9Eqm.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997149.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/mdMHHPT8S6wyrJ9eWncapNkvRx7.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997150.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/93QYwCO8rr6TT96qyufoFIOKCdu.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S01E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997151.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997152.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997153.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997154.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997155.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997156.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997157.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997158.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997159.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S02E09" tvg-logo="https://image.tmdb.org/t/p/w1280/8ioktIbSKpVJbQE8xr6p3OKSbPj.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S02E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997160.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/oM1viDggOXQgL63ibdpDt7FeTN2.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997161.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997162.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997163.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997164.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997165.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997167.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997168.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997169.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997170.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S03E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997171.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997172.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997173.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997174.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997175.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997176.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997177.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997178.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997179.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997180.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997181.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S04E11
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997182.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997183.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E02" tvg-logo="https://image.tmdb.org/t/p/w1280/7tpgxwOIuENMIOctpCCN7LbA6pC.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997184.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997186.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997187.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997188.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997189.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997190.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997191.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997192.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997193.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S05E11
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997194.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997195.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997196.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997197.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997198.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997199.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997200.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997202.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997203.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997204.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997205.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S06E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S06E11
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997206.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E01
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997207.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E02
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997208.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E03
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997209.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E04
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997210.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E05
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997211.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E06
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997212.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E07
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997213.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E08
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997214.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E09
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997215.mp4
-#EXTINF:-1 tvg-name="LARGADOS E PELADOS: A TRIBO S07E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="REALITY's [S]",LARGADOS E PELADOS: A TRIBO S07E10
-http://190.102.43.113:80/series/Formigatv/offilinetv2806/1997216.mp4
+http://190.102.43.113:80/Formigatv/offilinetv2145/1541391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Largados e pelados a tribo" tvg-logo="" group-title="✔️ CANAIS 24HS",Largados e pelados a tribo
+http://190.102.43.113:80/Formigatv/offilinetv2145/1541383.m3u8
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7f8cGu4v0WL8BGIpKGHs3YCvuL.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170180.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGh71o5EiNZZa6Z6mZfLiRBtHU2.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170181.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9icTucaQ2LV87obxoRBuKbXSJL.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170182.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4LMek3vMDYcbz1FioBtbcC7VkO.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170183.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyndKjxf6mjx7iUJWziBmFsOPgD.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170184.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5RWVPcY71T5Iuco4YAigMHnUth.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170185.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc23DcQWJk8ZqCW3b7IFtqv9Eqm.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170186.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdMHHPT8S6wyrJ9eWncapNkvRx7.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170187.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93QYwCO8rr6TT96qyufoFIOKCdu.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S01E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170188.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170189.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170190.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170191.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170192.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170193.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170194.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170195.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170196.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ioktIbSKpVJbQE8xr6p3OKSbPj.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S02E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170197.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oM1viDggOXQgL63ibdpDt7FeTN2.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170198.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170199.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170200.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170201.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170202.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170203.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170204.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170205.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170206.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S03E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S03E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170207.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170208.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170209.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170210.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170211.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170212.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170213.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170214.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170215.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170216.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170217.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S04E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S04E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170218.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3codUxJO7JSvB1cHYlRPPmILSv5.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170219.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tpgxwOIuENMIOctpCCN7LbA6pC.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170220.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170221.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170222.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170223.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170224.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170225.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170226.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170227.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170228.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S05E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S05E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170229.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170230.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170231.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170232.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170233.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170234.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170235.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170236.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170237.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170238.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170239.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S06E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S06E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170240.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170241.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170242.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170243.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170244.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170245.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170246.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170247.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170248.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170249.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: A Tribo S07E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//bJIGez4FvetUCVqm4nY4lIJPh3G.jpg" group-title="SERIES [E]",Largados e Pelados: A Tribo S07E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2170250.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1KwUDqG6WHydwuBubzhgZch4HQ.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184774.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pw3sW2HSKLnJhlUFDbkGzOv3G9t.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184775.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cES5DU67ZEZRBUXNihB9vkgGjhQ.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184776.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awWM6UmVbZB9fhPEfO1soygMsEt.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184777.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SQ96KMvg3IciTSha4Sw3h2XU33.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184778.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyrjigNCSoxMYyJPiV5b9I52Ric.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184779.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGTJAkunXiJ5ERsCbTIU9Edsr9D.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S01E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184780.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb4TyrONBZgs0ri3rLAQ85wr7T4.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184781.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qytaGBTAms9hfmCyFz3C8FLwlQO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184782.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rKfj8TruFmgI5xKgTvL3M1szQx.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184783.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8dkrwBzTYVyNWm2rRzF0LrWpT8.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184784.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqNlC8WgrE16R4ZoxhjNy9I5VDs.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184785.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exevXU5uTqu9Bighd1RoTzR9cBJ.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184786.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewmleQVBpjjbNUeOzorpNDxhwt2.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S02E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184787.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//y4ClQaUiAMFoXmvdpijcxJHACKO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184788.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//y4ClQaUiAMFoXmvdpijcxJHACKO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184789.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//y4ClQaUiAMFoXmvdpijcxJHACKO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184790.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//y4ClQaUiAMFoXmvdpijcxJHACKO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184791.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gf1PJgpD5YykuRWQ9WkZ3p98sxH.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184792.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//y4ClQaUiAMFoXmvdpijcxJHACKO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184793.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados Brasil S03E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//y4ClQaUiAMFoXmvdpijcxJHACKO.jpg" group-title="SERIES [E]",Largados e Pelados Brasil S03E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184794.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kmG5AyxdAJOgiX1lp3pVCncvkL.jpg" group-title="SERIES [E]",Largados e Pelados S01E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184795.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mD3ThvyUkPcbzdxqYXd7245F7p7.jpg" group-title="SERIES [E]",Largados e Pelados S01E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184796.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqa7WzThaBdKbkuGrRGmfFsFK5U.jpg" group-title="SERIES [E]",Largados e Pelados S01E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184797.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkw3ReoqBBdPxuH9W4Oqd1TIdAb.jpg" group-title="SERIES [E]",Largados e Pelados S01E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184798.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dF987adpY3QpP5hD7z9CWxBgzYv.jpg" group-title="SERIES [E]",Largados e Pelados S01E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184799.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o8fwO7Vzy8vHUmC0qoivUAaK2q.jpg" group-title="SERIES [E]",Largados e Pelados S01E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184800.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S01E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184801.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S01E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S01E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184802.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9n2kEoR6UnAWLQ7PWMDWGqRyyIr.jpg" group-title="SERIES [E]",Largados e Pelados S02E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184803.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FwSewyoKFQq0xDu1wVkibszIus.jpg" group-title="SERIES [E]",Largados e Pelados S02E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184804.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqEsk23o1dpLPUHHNx4KOMmNOq.jpg" group-title="SERIES [E]",Largados e Pelados S02E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184805.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdw60NkpBIlgaV6ikb68V1oy2b8.jpg" group-title="SERIES [E]",Largados e Pelados S02E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184806.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f21Qs0zgCWCKOINSOG9DMqKaFZz.jpg" group-title="SERIES [E]",Largados e Pelados S02E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184807.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U9Nm7roCqQR9LWeHFE3tSSal0L.jpg" group-title="SERIES [E]",Largados e Pelados S02E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184808.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TTthymss1q6JAapYxNB1M8vmTU.jpg" group-title="SERIES [E]",Largados e Pelados S03E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184809.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WTW5va55oH6g1byPl9zlSBSJME.jpg" group-title="SERIES [E]",Largados e Pelados S03E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184810.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFRJY8Nbm0hHgK9swwerlqaE9Dg.jpg" group-title="SERIES [E]",Largados e Pelados S03E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184811.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39QwMrK5RubPBx2Cgpmz0QZbZl0.jpg" group-title="SERIES [E]",Largados e Pelados S03E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184812.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znIq7cE4WUrJpJT6P4GbgTCx7Nj.jpg" group-title="SERIES [E]",Largados e Pelados S03E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184813.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bksL5oHxeDoDKAup9cOMvl8CTm.jpg" group-title="SERIES [E]",Largados e Pelados S03E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184814.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faVDCaquyqZr96CP9xIb9V53jr6.jpg" group-title="SERIES [E]",Largados e Pelados S03E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184815.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeW93KcZyZzsg3Ql4XiBmyD48Sh.jpg" group-title="SERIES [E]",Largados e Pelados S03E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184816.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtsbOdSHguNTrwFqqll8oIZiZZG.jpg" group-title="SERIES [E]",Largados e Pelados S03E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184817.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zzoDDO5hndSVBQEPADKgTlGQWV.jpg" group-title="SERIES [E]",Largados e Pelados S03E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184818.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2RhcShRVH9dPGT38djgh5VKhzi.jpg" group-title="SERIES [E]",Largados e Pelados S04E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184819.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bp0624rAUfLiMxrOERHFLDputGt.jpg" group-title="SERIES [E]",Largados e Pelados S04E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184820.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oMujtGCderwwVQs0dT3wCokKdb.jpg" group-title="SERIES [E]",Largados e Pelados S04E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184821.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blqIKyM5zt7PMKROIYBevczvymq.jpg" group-title="SERIES [E]",Largados e Pelados S04E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184822.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZrvmgZ4zYDPXWxUBpN1H6t0Op0.jpg" group-title="SERIES [E]",Largados e Pelados S04E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184823.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oQSsFqvVQwT0Cf1or8wPrNnVQg.jpg" group-title="SERIES [E]",Largados e Pelados S04E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184824.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DC7EQah9EGMTQp3IvGspK3wdZl.jpg" group-title="SERIES [E]",Largados e Pelados S04E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184825.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2ivUi3VvqlSRr4WywQpY7bsBi0.jpg" group-title="SERIES [E]",Largados e Pelados S04E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184826.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQtfsst4xBAtzozwrKqetSzW9w6.jpg" group-title="SERIES [E]",Largados e Pelados S04E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184827.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlM7Iqes9igDvkvEHuJTPhokxWq.jpg" group-title="SERIES [E]",Largados e Pelados S04E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184828.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnrvHf7Ba8dgyprYcdKZsWdCcR.jpg" group-title="SERIES [E]",Largados e Pelados S04E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184829.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37p42gg4bXFFwB7ZwoYW8pY9R2g.jpg" group-title="SERIES [E]",Largados e Pelados S05E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184830.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea3BRzW4TiYpim1C3c5bxkDPsPF.jpg" group-title="SERIES [E]",Largados e Pelados S05E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184831.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2NrFGFZvPD6R2b7i4oDXKiJSjj.jpg" group-title="SERIES [E]",Largados e Pelados S05E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184832.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S05E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184833.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gj4y68sGBhFFFJgk8dQSkRlj7Kw.jpg" group-title="SERIES [E]",Largados e Pelados S05E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184834.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S05E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184835.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S05E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184836.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S05E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184837.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S05E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S05E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184838.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6WQcgct2E5595ZuhOMobhxIn7x.jpg" group-title="SERIES [E]",Largados e Pelados S06E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184839.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3lShi7YagoBUjfhObk0KlPpUy7.jpg" group-title="SERIES [E]",Largados e Pelados S06E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184840.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61BuZ3h4PoYypDx0RWIzspyvnAq.jpg" group-title="SERIES [E]",Largados e Pelados S06E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184841.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rCZmTVQ1uDNzvMpEd4ta3j7eZz.jpg" group-title="SERIES [E]",Largados e Pelados S06E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184842.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYXo1Pe5x28zR1ZbCJDUfjDMFEc.jpg" group-title="SERIES [E]",Largados e Pelados S06E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184843.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwHQeds61VcbSJ1G3NeRhQI5hlF.jpg" group-title="SERIES [E]",Largados e Pelados S06E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184844.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcRhgOwSd8pvOufJSoQt7cDSFxI.jpg" group-title="SERIES [E]",Largados e Pelados S06E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184845.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFWQaCFQO9F83KaVmcDIOx6nA1b.jpg" group-title="SERIES [E]",Largados e Pelados S06E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184846.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caTnBa2tfTyu3jcjRYTKHe6rtWi.jpg" group-title="SERIES [E]",Largados e Pelados S06E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184847.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPBnfviuP6fjjWGXO2lY21ccYVv.jpg" group-title="SERIES [E]",Largados e Pelados S06E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184848.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUGTsKN3WRzvtXeUhi6mOzXuXUS.jpg" group-title="SERIES [E]",Largados e Pelados S06E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184849.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S06E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MEoukpYlltCfgZgFbpcLMQV166.jpg" group-title="SERIES [E]",Largados e Pelados S06E12
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184850.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rSwPFGGqca12aEtGATCHelcqQm.jpg" group-title="SERIES [E]",Largados e Pelados S07E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184851.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tURwShuWOWgUe0qjG8c14kz6j8z.jpg" group-title="SERIES [E]",Largados e Pelados S07E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184852.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioaFbjqoX5EWqfmjxngwl5HGJ5E.jpg" group-title="SERIES [E]",Largados e Pelados S07E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184853.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnOpXMcEtyXszPgJse6zXL0xx4v.jpg" group-title="SERIES [E]",Largados e Pelados S07E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184854.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97NibCvOMhp9yYO0k74MDWp22Dn.jpg" group-title="SERIES [E]",Largados e Pelados S07E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184855.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdWWSwDRsajGyLiMnndcwEhM2Y.jpg" group-title="SERIES [E]",Largados e Pelados S07E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184856.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tgEL7AZida4Iien8BpX8rNZuCc.jpg" group-title="SERIES [E]",Largados e Pelados S07E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184857.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vW12DvINPJ92qJkk9FSmtwhrItF.jpg" group-title="SERIES [E]",Largados e Pelados S07E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184858.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUCAsot6KfSJcP3vkwrG6kjTjBM.jpg" group-title="SERIES [E]",Largados e Pelados S07E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184859.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9nTtx0GmqLSj3zNjjucfsikiSv.jpg" group-title="SERIES [E]",Largados e Pelados S07E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184860.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S07E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cIz4qJ3Ez93LeQwvrQnMfje4f.jpg" group-title="SERIES [E]",Largados e Pelados S07E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184861.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S08E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMpRfwLVUoFV1p2oS3Oz2ODGbsg.jpg" group-title="SERIES [E]",Largados e Pelados S08E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184862.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S08E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S08E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184863.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S08E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghaY4a9HikUygBnvV0JJntQq29f.jpg" group-title="SERIES [E]",Largados e Pelados S08E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184864.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S08E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySaaZhhH2NDQghPXM2HYmlHCM15.jpg" group-title="SERIES [E]",Largados e Pelados S08E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184865.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S08E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCkkd3erCZctJhrRvjCq86gK9oi.jpg" group-title="SERIES [E]",Largados e Pelados S08E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184866.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S08E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S08E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184867.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naAcXIPOYgidgoup7uKI61Sw5oB.jpg" group-title="SERIES [E]",Largados e Pelados S09E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184868.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VMq8pIuDeFe8mTHYwdARpHszRd.jpg" group-title="SERIES [E]",Largados e Pelados S09E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184869.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aOwNhYjoAOwDISNHPUQ53IQvcw.jpg" group-title="SERIES [E]",Largados e Pelados S09E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184870.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT95ISPAuKtRS7q68jiQ6uGGNM4.jpg" group-title="SERIES [E]",Largados e Pelados S09E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184871.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS2xWyc7dtGWVc3fD0cM1oHnaAH.jpg" group-title="SERIES [E]",Largados e Pelados S09E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184872.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WaVApbVAAXTqxz3UFp1borzuO5.jpg" group-title="SERIES [E]",Largados e Pelados S09E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184873.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2boSATNSuCcsrTmfofNLaidduWx.jpg" group-title="SERIES [E]",Largados e Pelados S09E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184874.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UPTzIj6EZlOvMHVm0H6W2dGIdn.jpg" group-title="SERIES [E]",Largados e Pelados S09E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184875.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxJC9PuL9Zi9rBznMQHSGdWhW9p.jpg" group-title="SERIES [E]",Largados e Pelados S09E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184876.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seNQbNa3eTM9velpEfhhCybo7zi.jpg" group-title="SERIES [E]",Largados e Pelados S09E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184877.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tV57jyY4WCXV2NwUJd5VBwzidK.jpg" group-title="SERIES [E]",Largados e Pelados S09E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184878.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzSUulp9e68mAqsPdnVkLvfsgwI.jpg" group-title="SERIES [E]",Largados e Pelados S09E12
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184879.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myixTdrJRrf9BI41CQRAbygcVir.jpg" group-title="SERIES [E]",Largados e Pelados S09E13
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184880.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SDBkoI9I5zTN0y1cDj8zIq4XAS.jpg" group-title="SERIES [E]",Largados e Pelados S09E14
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184881.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S09E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NjAyDIOSE7Q5MQkp5Tk611uTd6.jpg" group-title="SERIES [E]",Largados e Pelados S09E15
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184882.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y120wdh6HwskSzBOnoo7r9xJGDZ.jpg" group-title="SERIES [E]",Largados e Pelados S10E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184883.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S10E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184884.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnZ1znBhp8LWYp0EEweMgQBwdLp.jpg" group-title="SERIES [E]",Largados e Pelados S10E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184885.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myfsOTjSQzI2ozZkDwJxGBfZ2w3.jpg" group-title="SERIES [E]",Largados e Pelados S10E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184886.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S10E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184887.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U50eK1hxFuo3mWYW2Vmw9Ic8nR.jpg" group-title="SERIES [E]",Largados e Pelados S10E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184888.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S10E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184889.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jW5K850WVk32LML5Ajwd2wMMxB.jpg" group-title="SERIES [E]",Largados e Pelados S10E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184890.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oej0IMrHR6zghfTRqJN7G1CJa2X.jpg" group-title="SERIES [E]",Largados e Pelados S10E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184891.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqCrBtSrx38encoDjpba2u9BaOI.jpg" group-title="SERIES [E]",Largados e Pelados S10E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184892.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FoDfiBwVTPxJPLwTASXLJdRdgh.jpg" group-title="SERIES [E]",Largados e Pelados S10E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184893.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNMT9DjoQFzsurvwMl4M6JUU4Ru.jpg" group-title="SERIES [E]",Largados e Pelados S10E12
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184894.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S10E13
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184895.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S10E14
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184896.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta51N2J5MqfTLzFAJydiWbtULsA.jpg" group-title="SERIES [E]",Largados e Pelados S10E15
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184897.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsT0ffWJMaPAqtkyls1O6yenm0r.jpg" group-title="SERIES [E]",Largados e Pelados S10E16
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184898.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFBNUn0UiiULv471fVGMR7HwCN4.jpg" group-title="SERIES [E]",Largados e Pelados S10E17
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184899.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M28KxzJugQaxSXtdedNS5aePXk.jpg" group-title="SERIES [E]",Largados e Pelados S10E18
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184900.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDrUwijoQ70X6ENVdWe67IoGxXu.jpg" group-title="SERIES [E]",Largados e Pelados S10E19
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184901.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S10E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3ZbhrfzIRN7aMozaPM25rTPgCb.jpg" group-title="SERIES [E]",Largados e Pelados S10E20
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184902.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ka8ikDcrL8bNEaww92JLybvy8Z.jpg" group-title="SERIES [E]",Largados e Pelados S11E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184903.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZkNB6j93SKeswKBwA3oAbpP4e3.jpg" group-title="SERIES [E]",Largados e Pelados S11E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184904.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMAa2S07X0vnad6MuMYg1IeuQzI.jpg" group-title="SERIES [E]",Largados e Pelados S11E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184905.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20byWx8CIjQFtcfQrXowA9Ear6l.jpg" group-title="SERIES [E]",Largados e Pelados S11E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184906.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beYWv62MssJiNuF9bCEKCQWdc6B.jpg" group-title="SERIES [E]",Largados e Pelados S11E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184907.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th598ha8rjszzlYM5ic0B3WhqLu.jpg" group-title="SERIES [E]",Largados e Pelados S11E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184908.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOwSsu1RAfbgMXzYySLEtgQdCje.jpg" group-title="SERIES [E]",Largados e Pelados S11E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184909.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/it8Di59E8F2u4dcPY4SbWD1LJV9.jpg" group-title="SERIES [E]",Largados e Pelados S11E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184910.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184911.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FMOWeU56JlP0oLNRDksp2H5gRm.jpg" group-title="SERIES [E]",Largados e Pelados S11E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184912.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184913.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EptRGcB9KtWVourXyGZ7l7yH5e.jpg" group-title="SERIES [E]",Largados e Pelados S11E12
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184914.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2MILQScpAdzAOVvvxN3Ep6b7J.jpg" group-title="SERIES [E]",Largados e Pelados S11E13
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184915.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAFYjzJ9eYJNK05wdBmjRHOtmwF.jpg" group-title="SERIES [E]",Largados e Pelados S11E14
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184916.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc19BgECYnwPjhR0cKOIxbH8dxp.jpg" group-title="SERIES [E]",Largados e Pelados S11E15
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184917.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh0Wezm0vaEau2aEICR8xfRf00A.jpg" group-title="SERIES [E]",Largados e Pelados S11E16
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184918.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzAMd0VX6gQ3NfUv9NZyweaSLV5.jpg" group-title="SERIES [E]",Largados e Pelados S11E17
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184919.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E18
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184920.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E19
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184921.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E20
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184922.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E21
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184923.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E22
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184924.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E23
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184925.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E24
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184926.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S11E25" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S11E25
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184927.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DK2iLgWVr3d8Nt8ho9jZA049xK.jpg" group-title="SERIES [E]",Largados e Pelados S12E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184928.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OQdMV1MN7qHV4MB0jt1QtyotCT.jpg" group-title="SERIES [E]",Largados e Pelados S12E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184929.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yew1TZ3RXKZJxdMa6DYAx0Mywwd.jpg" group-title="SERIES [E]",Largados e Pelados S12E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184930.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aW4RyZ8B4U325ihYE2YSVGrypiZ.jpg" group-title="SERIES [E]",Largados e Pelados S12E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184931.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E05" tvg-logo="https://image.tmdb.org/t/p/w300/p1wpBJjcsaDtWV7bgpmO6K9IKWa.jpg" group-title="SERIES [E]",Largados e Pelados S12E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184932.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E06" tvg-logo="https://image.tmdb.org/t/p/w300/xK0COJebD6ZR5xUn5HkneHKpxWg.jpg" group-title="SERIES [E]",Largados e Pelados S12E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184933.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E07" tvg-logo="https://image.tmdb.org/t/p/w300/9mMYIJ8kYit5V4nSkKJdGiQPFxL.jpg" group-title="SERIES [E]",Largados e Pelados S12E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184934.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E08" tvg-logo="https://image.tmdb.org/t/p/w300/NZtxfO64OOVF7mvh6qtbzRbcna.jpg" group-title="SERIES [E]",Largados e Pelados S12E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184935.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//gPFDYS5i5GTZBWiB7R33eFURR5f.jpg" group-title="SERIES [E]",Largados e Pelados S12E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184936.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E10" tvg-logo="https://image.tmdb.org/t/p/w300/9BXt9saUbfXJBrtgKrcNY1RwvMV.jpg" group-title="SERIES [E]",Largados e Pelados S12E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184937.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S12E11" tvg-logo="https://image.tmdb.org/t/p/w300/bfRtHBYWqsBqIBKEhRspoxiMNaZ.jpg" group-title="SERIES [E]",Largados e Pelados S12E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184938.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S13E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lq5UBKsMgKBpfkZX6rpfj1NnuI.jpg" group-title="SERIES [E]",Largados e Pelados S13E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184939.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S13E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuBbahUrxpauVxK8sxOgAZS2Wae.jpg" group-title="SERIES [E]",Largados e Pelados S13E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184940.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S13E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bg0tT3JQ3zUXSeUgWJ9Wa4whdte.jpg" group-title="SERIES [E]",Largados e Pelados S13E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184941.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S13E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85sDuKKM0uVbHE7k0yQZhAppGC4.jpg" group-title="SERIES [E]",Largados e Pelados S13E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184942.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S13E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iM3Yz7g5YB9Mgh5aDmSoKG52zD.jpg" group-title="SERIES [E]",Largados e Pelados S13E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184943.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S13E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCtnH9I3DHZcvYZJHUH5pVfZUwf.jpg" group-title="SERIES [E]",Largados e Pelados S13E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184944.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG7MZVRba7tFAUhTAb4vHD1ryB0.jpg" group-title="SERIES [E]",Largados e Pelados S14E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184945.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gy87ayQeFpuMYiFMY7FsZEDR1A2.jpg" group-title="SERIES [E]",Largados e Pelados S14E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184946.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j60HWQJUo0JV3iaKwt231jnQr5L.jpg" group-title="SERIES [E]",Largados e Pelados S14E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184947.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pTuAffb60bKbdf9uunCAVG6alm.jpg" group-title="SERIES [E]",Largados e Pelados S14E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184948.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f62LVxaQg2AMYs80oHGzOijavYX.jpg" group-title="SERIES [E]",Largados e Pelados S14E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184949.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evQNVJv8XSmLJY5X3ovD655yFJu.jpg" group-title="SERIES [E]",Largados e Pelados S14E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184950.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU8pY5H62dtGmqTeU83g9mydob2.jpg" group-title="SERIES [E]",Largados e Pelados S14E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184951.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvxjfJifcOGdS360QdZEn3fWnxf.jpg" group-title="SERIES [E]",Largados e Pelados S14E08
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184952.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXj9n1fgtJLzkSyj9yOzLLlJQ19.jpg" group-title="SERIES [E]",Largados e Pelados S14E09
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184953.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVK17kmWjqw1mrvqJzIdYf5HxE7.jpg" group-title="SERIES [E]",Largados e Pelados S14E10
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184954.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados S14E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z38FgSqwktbO0AVknCfnx95OLTm.jpg" group-title="SERIES [E]",Largados e Pelados S14E11
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2184955.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzHyxjjLDOSLqsrPOkMWYRNTbDM.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E01
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256475.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoSnEupIj4B4p7qPfmKA1uZeymS.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E02
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256476.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21wnoJ4E1bLoK0OLx1RoFtVjXz6.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E03
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256477.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sgLWFaBYrB4j3V4Vn0gDTYXvUr.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E04
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256478.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aN4I6Nn03u2Wt9k2w0dVvXdkWL7.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E05
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256479.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5McjgEPhCvnFvmsaEyO0uKW6JGl.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E06
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256480.mp4
+#EXTINF:-1 tvg-name="Largados e Pelados: Latinos S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2k3FTO0QGHNLvXYSaOveRqMWQC.jpg" group-title="SERIES [E]",Largados e Pelados: Latinos S01E07
+http://190.102.43.113:80/series/Formigatv/offilinetv2145/2256481.mp4
 #EXTINF:-1 ,Burn Up! 1 Leg
 https://lightspeedst.net/s4/mp4/burn-up/sd/1.mp4
 #EXTINF:-1 ,Nier auto 1
